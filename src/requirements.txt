@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+numpy
+torch
+transformers
+langchain
+networkx
+scipy
+faiss-cpu
